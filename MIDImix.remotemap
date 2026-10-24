@@ -1,0 +1,74 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Akai
+Control Surface Model	MIDI Mix
+Map Version	1.4.6
+
+
+
+Scope	Propellerheads	Reason Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Scope	Propellerheads	Reason Master Section
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Bank Left Button		Previous 8 Remote Base Channel
+Map	Bank Right Button		Next 8 Remote Base Channel
+Map	Master Fader		Master Level
+Map	Fader 1		Channel 1 Level         
+Map	Fader 2		Channel 2 Level         
+Map	Fader 3		Channel 3 Level         
+Map	Fader 4		Channel 4 Level         
+Map	Fader 5		Channel 5 Level         
+Map	Fader 6		Channel 6 Level        
+Map	Fader 7		Channel 7 Level        
+Map	Fader 8		Channel 8 Level         
+
+Map	Knob 1A		Channel 1 FX2 Send Level    
+Map	Knob 1B		Channel 1 FX1 Send Level  
+Map	Knob 1C		Channel 1 Pan           
+
+Map	Knob 2A		Channel 2 FX2 Send Level     
+Map	Knob 2B		Channel 2 FX1 Send Level    
+Map	Knob 2C		Channel 2 Pan           
+
+Map	Knob 3A		Channel 3 FX2 Send Level   
+Map	Knob 3B		Channel 3 FX1 Send Level    
+Map	Knob 3C		Channel 3 Pan           
+
+Map	Knob 4A		Channel 4 FX2 Send Level 
+Map	Knob 4B		Channel 4 FX1 Send Level    
+Map	Knob 4C		Channel 4 Pan           
+
+Map	Knob 5A		Channel 5 FX2 Send Level    
+Map	Knob 5B		Channel 5 FX1 Send Level   
+Map	Knob 5C		Channel 5 Pan           
+
+Map	Knob 6A		Channel 6 FX2 Send Level    
+Map	Knob 6B		Channel 6 FX1 Send Level    
+Map	Knob 6C		Channel 6 Pan           
+
+Map	Knob 7A		Channel 7 FX2 Send Level    
+Map	Knob 7B		Channel 7 FX1 Send Level    
+Map	Knob 7C		Channel 7 Pan           
+
+Map	Knob 8A		Channel 8 FX2 Send Level 
+Map	Knob 8B		Channel 8 FX1 Send Level 
+Map	Knob 8C		Channel 8 Pan          
+
+Map	Mute Button 1		Channel 1 Mute   
+Map	Mute Button 2		Channel 2 Mute   
+Map	Mute Button 3		Channel 3 Mute   
+Map	Mute Button 4		Channel 4 Mute   
+Map	Mute Button 5		Channel 5 Mute   
+Map	Mute Button 6		Channel 6 Mute   
+Map	Mute Button 7		Channel 7 Mute   
+Map	Mute Button 8		Channel 8 Mute   
+
+Map	Solo Button 1		Channel 1 Solo   
+Map	Solo Button 2		Channel 2 Solo   
+Map	Solo Button 3		Channel 3 Solo   
+Map	Solo Button 4		Channel 4 Solo   
+Map	Solo Button 5		Channel 5 Solo   
+Map	Solo Button 6		Channel 6 Solo   
+Map	Solo Button 7		Channel 7 Solo   
+Map	Solo Button 8		Channel 8 Solo   
